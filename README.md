@@ -5,3 +5,5 @@
 ## 效果
 ![效果1](README1.png)
 ![效果2](README2.png)
+![效果2](https://any001.ipv4.website/Preview1.png)
+![效果2](https://any001.ipv4.website/Preview2.png)
